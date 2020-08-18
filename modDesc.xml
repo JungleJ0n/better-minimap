@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="39">
-    <version>1.1.0.2</version>
+<modDesc descVersion="0">
+    <version>0.0.0.1</version>
     <author>jDanek</author>
     <title>
         <en>Better Minimap</en>
-        <de>Bessere Minimap</de>
-        <fr>Meilleure Minicarte</fr>
-        <cz>Lepší Minimapa</cz>
-        <pl>Ulepszona minimapa</pl>
     </title>
 
     <description>
@@ -25,142 +21,9 @@ Function:
 
 Changelog:
 
-V1.1.0.2
-+ Added Russian translation
-
-V1.1.0.0
-+ Added compatibility for modification: Tardis Teleport
-+ Added config gui and merge settings
-+ Added full hiding minimap option
-+ Added refresh settings
-+ Adding a transparency level
-+ Added saving of settings to an XML file
-+ New mod icon
-- Change some keys
-
-V1.0.0.1
-+ Added Polish translation
+V0.0.0.1
+-initial commit
 ]]></en>
-        <de><![CDATA[
-Eine bessere Minikarte, die die ursprüngliche Minikarte im Spiel ersetzt. Fügt die Fähigkeit hinzu, Bildgebungsmodi (Pflanzen, Pflanzenwachstum und Boden) direkt in Minikarte zu wechseln. Diese Status werden automatisch nach 60 Sekunden wiederhergestellt, indem Sie den Modus ändern oder die Größe der Minikarte ändern.
-
-Eigenschaften:
-- Farbstatusanzeige
-- Der aktive Modus ist unter der Minikarte aufgeführt
-- Automatisches erneutes Lesen von Zuständen nach 60s mit Abzug
-- Ändere die Größe der Minikarte (normal / weit / größer)
-- Erinnert sich an die gewählte Größe während der Wiedergabe
-- Transparenz wechseln
-- Vergrößern und verkleinern der Minikarte
-
-Änderungsliste:
-
-V1.1.0.2
-+ Hinzugefügt Russisch Übersetzung
-
-V1.1.0.0
-+ Kompatibilität für Änderungen hinzugefügt: Tardis Teleportieren
-+ Hinzugefügt Config GUI und merge Einstellungen
-+ Vollständige Minipap-Option hinzugefügt
-+ Aktualisierungseinstellungen hinzugefügt
-+ Hinzufügen einer Transparenzstufe
-+ Hinzufügen von Einstellungen in einer XML-Datei
-+ Neues Mod-Symbol
-- Ändern Sie einige Schlüssel
-
-V1.0.0.1
-+ Hinzugefügt polnische Übersetzung
-]]></de>
-        <fr><![CDATA[
-Une meilleure minicarte qui remplace la minicarte originale dans le jeu. Ajoute la possibilité de changer de mode d'imagerie (plantes, croissance des plantes et sol) directement en minicarte. Ces états sont automatiquement restaurés après 60 secondes en changeant le mode ou en redimensionnant la minicarte.
-
-Caractéristiques:
-- Indication d'état de la couleur
-- Le mode actif est répertorié sous la minicarte
-- Relecture automatique des états après 60s avec déduction
-- Changer la taille de la minicarte (normale / large / plus grande)
-- Se souvient de la taille sélectionnée pendant la lecture
-- Transparence de commutation
-- Zoom avant et arrière sur la minicarte
-
-Changelog:
-
-V1.1.0.2
-+ Ajout de traduction russe
-
-V1.1.0.0
-+ Ajout de la compatibilité pour la modification: Tardis téléportation
-+ Ajout de paramètres de configuration et de fusion
-+ Ajout d'une option de minimisation de masquage complet
-+ Ajout de paramètres d'actualisation
-+ Ajout d'un niveau de transparence
-+ Ajout de la sauvegarde des paramètres dans un fichier XML
-+ Nouvelle icône de mod
-- Changer certaines clés
-
-V1.0.0.1
-+ Ajout de traduction polonaise
-]]></fr>
-        <cz><![CDATA[
-Lepší minimapa, který nahrazuje původní minimapu ve hře. Přidá možnost přepínat zobrazovací režimy (rostliny, růst rostlin a půda) přímo v minimapě. Tyto stavy se automaticky obnoví po 60 sekundách, změnou režimu nebo změnou velikosti minimapu.
-
-Funkce:
-- Barevná indikace stavu polí
-- Aktivní režim je vypsán pod minimapou
-- Automatické znovunačtení stavů po 60s s odpočtem
-- Změna velikost minimapy (normální / široký / větší)
-- Pamatuje si zvolenou velikost během hry
-- Přepínání průhlednosti
-- Přiblížení a oddálení minimapy
-
-Změny:
-
-V1.1.0.2
-+ Přidán ruský překlad
-
-V1.1.0.0
-+ Přidána kompatibilita pro modifikaci: Tardis Teleport
-+ Přidána config gui a sloučení nastavení
-+ Přidána volba úplného skrytí minimapy
-+ Přidáno nastavení obnovování
-+ Přidána volba urovně průhlednosti
-+ Přidáno uložení nastavení do XML souboru
-+ Nová ikona módu
-- Změna některých kláves
-
-V1.0.0.1
-+ Přidán polský překlad
-]]></cz>
-        <pl><![CDATA[
-Ulepszona minimapa, która zastępuje oryginalną w grze minimapę. Dodaje możliwość przełączania trybów wyświetlania (rodzaje roślin, wzrost roślin i zagęszczenie gleby) bezpośrednio na minimapie. Stany te są automatycznie odświeżanie po 60 sekundach od zmiany trybu lub rozmiaru minimapy.
-
-Funkcje:
-- Wskaźnik statusu koloru
-- Aktywny tryb jest wyświetlany pod minimapą
-- Automatyczne odświeżanie stanów po 60s (licznik)
-- Zmiana rozmiaru minimapy (normalna/szeroka/duża)
-- Zapamiętuje wybrany rozmiar podczas gry
-- Zmiana przezroczystości
-- Przybliżanie i oddalanie minimapy
-
-Dziennik zmian:
-
-V1.1.0.2
-+ Dodano rosyjskie tłumaczenie
-
-V1.1.0.0
-+ Dodano kompatybilność z modem: Tardis Teleport
-+ Dodano możliwość konfiguracji poprzez okno ustawień
-+ Dodano opcję całkowitego ukrycia minimapy
-+ Dodano możliwość zmiany czasu odświeżania stanów
-+ Dodawanie konfigurację stipnia przezroczystości
-+ Dodano zapis ustawień do pliku XML
-+ Nowa ikona modu
-- Zostały zmienione klawisze niektórych funkcji (wymagany reset klawiszologi) 
-
-V1.0.0.1
-+ Dodano polskie tłumaczenie
-]]></pl>
     </description>
 
     <multiplayer supported="true"/>
