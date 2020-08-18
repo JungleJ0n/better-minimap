@@ -1,2 +1,2 @@
 # better-minimap
-Fork of Modification jDanek ported for Farming Simulator 19
+Fork of jDanek's better-minimap ported for Farming Simulator 19
